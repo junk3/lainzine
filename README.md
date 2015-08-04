@@ -1,0 +1,2 @@
+# lainzine
+lainchan ezine
